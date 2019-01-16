@@ -78,10 +78,10 @@ a:hover {
   }
 
   .image {
-  display: inline-block;
-  width: 50%;
-  max-width: 25em;
-  vertical-align: middle;
+    display: inline-block;
+    width: 50%;
+    max-width: 25em;
+    vertical-align: middle;
   }
 
 }
